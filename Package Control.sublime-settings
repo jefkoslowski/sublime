@@ -1,0 +1,25 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Dayle Rees Color Schemes",
+		"Emmet",
+		"IndentGuides",
+		"LineEndings",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeTODO",
+		"Theme - Aqua",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"TrailingSpaces"
+	],
+	"repositories":
+	[
+		"https://github.com/robcowie/SublimeTODO"
+	]
+}
