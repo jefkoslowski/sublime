@@ -13,13 +13,3 @@ import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed
 cp sublime2/*.sublime* ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
 cp -r sublime2/Color\ Scheme\ -\ User/ ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Color\ Scheme\ -\ User/
 ```
-
-Bash Profile & Inputrc
-----------------------
-
-* Download this repository as .zip, move into downloaded folder and run:
-
-```
-cp .bash_profile ~/
-cp .inputrc ~/
-```
