@@ -1,7 +1,7 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - User/Snappy.tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"drag_text": false,
@@ -24,7 +24,7 @@
 	],
 	"save_on_focus_lost": false,
 	"show_full_path": true,
-	"theme": "Soda Light.sublime-theme",
+	"theme": "Spacegray.sublime-theme",
 	"todo":
 	{
 		"patterns":
@@ -36,5 +36,6 @@
 		}
 	},
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"origami_auto_close_empty_panes": true
 }
