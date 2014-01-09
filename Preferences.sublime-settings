@@ -17,6 +17,7 @@
 		"Vintage"
 	],
 	"open_files_in_new_window": false,
+	"origami_auto_close_empty_panes": true,
 	"preview_on_click": false,
 	"rulers":
 	[
@@ -36,6 +37,5 @@
 		}
 	},
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false,
-	"origami_auto_close_empty_panes": true
+	"word_wrap": false
 }
