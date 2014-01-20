@@ -32,42 +32,42 @@
         "curly": {
             "icon": "curly_bracket",
             "color": "brackethighlighter.curly",
-            "style": "highlight"
+            "style": "underline"
         },
         "round": {
             "icon": "round_bracket",
             "color": "brackethighlighter.round",
-            "style": "highlight"
+            "style": "underline"
         },
         "square": {
             "icon": "square_bracket",
             "color": "brackethighlighter.square",
-            "style": "highlight"
+            "style": "underline"
         },
         "angle": {
             "icon": "angle_bracket",
             "color": "brackethighlighter.angle",
-            "style": "highlight"
+            "style": "underline"
         },
         "tag": {
             "icon": "tag",
             "color": "brackethighlighter.tag",
-            "style": "highlight"
+            "style": "underline"
         },
         "single_quote": {
             "icon": "single_quote",
             "color": "brackethighlighter.quote",
-            "style": "highlight"
+            "style": "underline"
         },
         "double_quote": {
             "icon": "double_quote",
             "color": "brackethighlighter.quote",
-            "style": "highlight"
+            "style": "underline"
         },
         "regex": {
             "icon": "regex",
             "color": "brackethighlighter.quote",
-            "style": "highlight"
+            "style": "underline"
         }
     }
 }
