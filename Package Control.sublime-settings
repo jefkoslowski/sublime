@@ -5,7 +5,6 @@
 		"All Autocomplete",
 		"AutoFileName",
 		"BracketHighlighter",
-		"CanISwitchToSublimeText3",
 		"Dayle Rees Color Schemes",
 		"Emmet",
 		"LineEndings",
@@ -15,13 +14,9 @@
 		"SublimeCodeIntel",
 		"SublimeGit",
 		"SublimeLinter",
+		"Theme - Aqua",
 		"Theme - Phoenix",
 		"Theme - Soda",
-		"Theme - Spacegray",
-		"TrailingSpaces"
-	],
-	"repositories":
-	[
-		"https://github.com/robcowie/SublimeTODO"
+		"Theme - Spacegray"
 	]
 }
