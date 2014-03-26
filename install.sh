@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-SUBLIME_CONFIG=~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
-SUBLIME_THEME=~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Color\ Scheme\ -\ User/
+SUBLIME_CONFIG=~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
+SUBLIME_THEME=~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Color\ Scheme\ -\ User/
 
 cd "$(dirname "${BASH_SOURCE}")"
 git pull origin master
